@@ -13,4 +13,12 @@
   border: 1px solid #000;
   border-radius: 5px;
   cursor: pointer;
+  transition: 250ms ease-out;
+}
+
+.buttonDelete:hover {
+  color: #fff;
+  cursor: pointer;
+  transition: 250ms ease-out;
+  background-color: darkblue;
 }
